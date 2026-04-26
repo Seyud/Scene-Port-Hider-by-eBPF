@@ -1,6 +1,5 @@
 deps/
 /vmlinux.btf
-/btf/vmlinux.btf
 /hideport_module.zip
 /hideSceneport_module.zip
 /kernel_btf.sha256
